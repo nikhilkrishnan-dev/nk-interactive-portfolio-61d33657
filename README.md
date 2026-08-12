@@ -81,15 +81,3 @@ During a real-world spatiotemporal audit, GeoSense isolated a critical GPS spoof
 🛡️ **Diploma in Warehouse Management** (Alison, Distinction)
 
 🛡️ **100% English Proficiency Score** (EF Standardized Assessment)
-
-## 💼 Let's Build Something Powerful!
-
-I am currently __open for remote or full-time roles as an AI Content & Evaluation Specialist, React / Frontend Developer, or Data Analyst.__ 
-
-Let's optimize your enterprise models together!
-
-**📬 Secure Line**: +91-9048871505
-
-**📧 Encrypted Mail**: nikhilkr51@gmail.com
-
-**🌐 Interactive 3D HUD**: [nikhilkrishnan.dev](https://nikhilkrishnan.dev/)
